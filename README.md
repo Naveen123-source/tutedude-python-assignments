@@ -2,8 +2,32 @@
 
 This repository contains solutions for:
 
-## ✅ Assignment 1:- Task 1
-Describe what Task 1 does here...
+## ✅ Assignment 1
 
-## ✅ Assignment 1:- Task 2
-Describe what Task 2 does here...
+### 🔹 Task 1 – `assignment1_task1.py`
+Description: Perform Basic Mathematical Operations
+
+### 🔹 Task 2 – `assignment1_task2.py`
+Description:Create a Personalized Greeting
+
+---
+
+## ✅ Assignment 2
+
+### 🔹 Task 1 – `assignment2_task1.py`
+Description: Check if a Number is Even or Odd
+
+### 🔹 Task 2 – `assignment2_task2.py`
+Description:Sum of Integers from 1 to 50 Using a Loop
+
+---
+
+## ✅ Assignment 3
+
+### 🔹 Task 1 – `assignment3_task1.py`
+Description:Calculate Factorial Using a Function 
+
+### 🔹 Task 2 – `assignment3_task2.py`
+Description:Using the Math Module for Calculations
+
+---
