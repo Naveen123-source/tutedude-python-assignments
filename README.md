@@ -31,3 +31,23 @@ Description:Calculate Factorial Using a Function
 Description:Using the Math Module for Calculations
 
 ---
+
+---
+
+## ✅ Assignment 4
+
+### 🔹 Task 1 – `assignment4_task1.py`
+Description:Read a File and Handle Errors
+
+### 🔹 Task 2 – `assignment4_task2.py`
+Description:Write and Append Data to a File
+
+---
+
+## ✅ Assignment 5
+
+### 🔹 Task 1 – `assignment5_task1.py`
+Description:Create a Dictionary of Student Marks 
+
+### 🔹 Task 2 – `assignment5_task2.py`
+Description:Demonstrate List Slicing
