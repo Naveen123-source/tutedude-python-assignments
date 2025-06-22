@@ -1,14 +1,17 @@
 # write content in file
+userInput = input("Enter text to write to the file:")
+
 with open('simple.txt','w') as file:
-    fileContent = file.write('Line 1: This is a simple text file.')
-    print(fileContent)
+    fileContent = file.write(userInput)
+    print("Data successfully written to simple.txt.")
 
 # append content in file
+userInput = input("Enter additional text to append:")
 with open('simple.txt','a') as file:
-    fileContent = file.write('\nLine 2: It contains multiple lines.')
-    print(fileContent)
+    fileContent = file.write(f"\n{userInput}")
+    print("Data append successfully")
 
 # read file content
 with open('simple.txt','r') as file:
     fileContent = file.read()
-    print(f"Reading file content\n{fileContent}")
+    print(f"Final content of simple.txt:\n{fileContent}")
